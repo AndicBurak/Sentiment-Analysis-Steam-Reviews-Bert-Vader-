@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib #grafer
+seaborn #grafer
+scikit-learn #grafer
+vaderSentiment #Vader Sentiment Analysis
+transformers #Bert
+torch #Bert
+tqdm #progess bar
